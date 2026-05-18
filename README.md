@@ -1,1 +1,1 @@
-update banner
+update banner section
